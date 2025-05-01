@@ -43,6 +43,3 @@ if st.button("🔍 Prediksi"):
 
     st.success(f"🌼 Model memprediksi: **{pred_class}** dengan keyakinan {confidence:.2f}%")
     st.balloons()
-
-st.markdown("---")
-st.caption("© 2025 Iris Classifier App – by [Riska D Y]")
