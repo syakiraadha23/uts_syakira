@@ -1,4 +1,5 @@
 streamlit
 numpy
 joblib
-tensorflow
+tensorfloW
+sklearn
